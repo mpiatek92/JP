@@ -1,4 +1,3 @@
-```c
 #include<stdio.h>
 #include<stdlib.h>
 int abs(int n)
@@ -62,4 +61,3 @@ int main(int argc, char** argv)
 		printf("\n----\n");
 	}
 }
-```
