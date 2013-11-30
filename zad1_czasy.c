@@ -24,7 +24,7 @@ void print_czas(czas c)
 czas get_czas_from_s(int s)
 {
 	czas wynik;
-	div_t d = div(s,60*60);
+	div_t d = div(s,3600);
 	wynik.godzina = d.quot;
 	d = div(d.rem,60);
 	wynik.minuta = d.quot;
@@ -33,7 +33,7 @@ czas get_czas_from_s(int s)
 }
 int get_s_from_czas(czas c)
 {
-	return c.godzina*60*60 + c.minuta*60+c.sekunda;
+	return c.godzina*3600 + c.minuta*60+c.sekunda;
 }
 czas diff(czas c1, czas c2)
 {
