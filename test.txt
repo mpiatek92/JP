@@ -1,0 +1,9 @@
+8
+2 14/1/2013 20:50:30 Dawno temu.
+1 10/1/2013 4:5:42 Top Secret: NSA szpieguje wszystkich!
+3 14/6/2013 2:5:57 Nieaktualny wpis. Test metody clr
+1 14/1/2014 19:42:45 Wazne! Aby osiagnac perfekcje w jezyku C nalezy nauczc sie programowac sposob najbardziej efektywny, tak, aby program wykonowal swoje zadania w jak najkrotszym czasie i uzywaj najmniej zasobow jak to jest mozliwe
+3 14/1/2014 19:43:37 Lista zakupow: Mleko, chleb, woda mineralna, maslanka, papryka, klawiatura i sos slodko-kwasny
+2 14/1/2014 19:44:34 Dosyc wazne. Wyjsc z psem na spacer
+3 14/1/2014 19:45:44 Notatki z programowania: nie nalezy stosowac scanf, gdyz nie czysci on bufora stdin po tym, jak przyjmnie nieoczekiwane wartosci
+3 14/1/2014 19:55:33 Wlazl kotek na plotek i mruga. Ladna to piosenka niedluga.
